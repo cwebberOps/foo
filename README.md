@@ -3,4 +3,4 @@ foo
 
 Testing some puppet vcsrepo goodness
 
-Here goes change #1
+Here goes change #2
